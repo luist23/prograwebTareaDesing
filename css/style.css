@@ -101,6 +101,7 @@ footer h2{
     border: solid;
     border-radius: 100%;
     margin: 1em;
+    width: 2em;
     border-color: rgba(128, 128, 128, 0.74);
     color: rgba(128, 128, 128, 0.74);
 }
